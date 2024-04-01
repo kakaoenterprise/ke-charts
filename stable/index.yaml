@@ -3,12 +3,12 @@ entries:
   ke-load-balancer-controller:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-03-05T09:58:47.790978+09:00"
+    created: "2024-04-01T17:54:04.925338+09:00"
     description: A Helm chart for Kubernetes
-    digest: 26bd2cfa444f3e4da4a4fd2b575bb706438bd6a09281279c8455993d850fd0c2
+    digest: be224e2abddbba65a6149533368eddea334b15f5bd322dbd645f3a325c46b582
     name: ke-load-balancer-controller
     type: application
     urls:
     - https://kakaoenterprise.github.io/ke-charts/stable/ke-load-balancer-controller-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-05T09:58:47.790361+09:00"
+generated: "2024-04-01T17:54:04.924644+09:00"
